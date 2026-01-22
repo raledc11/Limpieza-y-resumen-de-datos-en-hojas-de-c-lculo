@@ -1,4 +1,4 @@
-# 📊 Proyecto 1: Limpieza y Resumen de Datos en Hojas de Cálculo
+# 📊 Limpieza y Resumen de Datos en Hojas de Cálculo
 
 ## 🧠 Contexto
 
